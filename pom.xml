@@ -50,15 +50,6 @@
         </license>
     </licenses>
 
-    <developers>
-        <developer>
-            <id>blackdread</id>
-            <name>Yoann CAPLAIN</name>
-            <email>yoann.caplain@blackdread.org</email>
-            <url>http://blackdread.org</url>
-        </developer>
-    </developers>
-
     <dependencies>
         <dependency>
             <groupId>org.apache.commons</groupId>
